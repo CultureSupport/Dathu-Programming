@@ -4,13 +4,13 @@ a programming language for fast build
 custom instanes and apps and software 
 flash boot up programs 
 
--- custom app boot ups
--- costum pc boot up 
--- custom website boot ups 
--- custom run env boot ups
+- custom app boot ups
+- costum pc boot up 
+- custom website boot ups 
+- custom run env boot ups
 
--- custom cloud instance boot ups
--- custom ai agent boot ups 
+- custom cloud instance boot ups
+-  custom ai agent boot ups 
 -------
 
 
